@@ -18,11 +18,11 @@ Tasks:
 
 - Create an <input> with a type="submit", id="btnSubmit", and value="Submit" in the index.html. Open the index.html in a browser and verify that a button appears.
 
-- In app.js and use jQuery to select the <input> element you just created by the id.
+- In app.js and use jQuery to select the input element you just created by the id.
 
-- Add a click event handler to the <input> button that will alert a message in the browser when the button is clicked.
+- Add a click event handler to the input button that will alert a message in the browser when the button is clicked.
 
-- In the index.html, create a <form> element with an <input type="text"> field and the <input type="submit"> you already created.
+- In the index.html, create a form element with an input type="text" field and the input type="submit" you already created.
   
 - In app.js when the form is submitted, alert the value of the text input field.
 
