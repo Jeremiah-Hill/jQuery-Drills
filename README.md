@@ -1,6 +1,6 @@
 Simple jQuery Drills
 
-Objective
+Objective:
 
 Practice using the fundamentals of jQuery that were explored in lecture.
 
@@ -28,7 +28,7 @@ Tasks:
 
 - If the user has typed in the input field then the button should be enabled, otherwise the button should be disabled.
 
-- Create a div element and append it to the body.
+- Create a div elementand append it to the body.
 
 - When the user types in the input field and clicks submit, append the text in an h2 element to the div.
 
